@@ -1,0 +1,1 @@
+pyinstaller --onefile --paths=C:\Users\Administrator\AppData\Local\Programs\Python\Python39\Lib\site-packages  dd.py
